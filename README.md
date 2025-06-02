@@ -14,7 +14,13 @@ A simple and responsive password generator built with **React**, **TypeScript**,
 ## 🛠️ Built With
 - React  
 - TypeScript  
-- Tailwind CSS  
+- Tailwind CSS
+
+  
+## 📦 Live Demo
+[Password Generator](password-generator-5i3h.vercel.app) 
+
+---
 
 ## 🚀 Getting Started
 ```bash
