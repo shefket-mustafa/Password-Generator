@@ -18,7 +18,7 @@ A simple and responsive password generator built with **React**, **TypeScript**,
 
   
 ## 📦 Live Demo
-[Password Generator](password-generator-5i3h.vercel.app) 
+[Password Generator](https://password-generator-5i3h.vercel.app) 
 
 ---
 
