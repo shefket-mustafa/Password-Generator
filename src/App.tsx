@@ -41,8 +41,8 @@ function App() {
 }
 
   return (
-    <div className="flex justify-center items-center min-h-screen font-sans bg-gray-100 px-4">
-      <form onSubmit={generatePassword} className="flex flex-col max-w-[600px] bg-white p-8 rounded-2xl shadow-lg w-full">
+    <div className="flex justify-center  min-h-screen items-start font-sans bg-gray-100 px-4 pt-5">
+      <form onSubmit={generatePassword} className="flex flex-col max-w-[600px] bg-white p-8 mt-10 rounded-2xl h-auto shadow-lg w-full">
         <h1 className="text-3xl font-bold text-center mb-6">🔐 Password Generator</h1>
   
         <div className="grid grid-cols-2 gap-4">
